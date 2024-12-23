@@ -1,5 +1,5 @@
 ## Funcionalidades
-- [] Validación Extranjero 
+- [x] Validación Extranjero 
 - [] Validación firma 
 - [] Lista negra rut fraude 
 - [] Validación estrella arriba al lado derecho 
